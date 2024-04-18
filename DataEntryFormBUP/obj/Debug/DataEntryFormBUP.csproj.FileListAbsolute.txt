@@ -1,0 +1,10 @@
+E:\Coding Practice\DataEntryFormBUP\bin\Debug\DataEntryFormBUP.exe.config
+E:\Coding Practice\DataEntryFormBUP\bin\Debug\DataEntryFormBUP.exe
+E:\Coding Practice\DataEntryFormBUP\bin\Debug\DataEntryFormBUP.pdb
+E:\Coding Practice\DataEntryFormBUP\obj\Debug\DataEntryFormBUP.csproj.AssemblyReference.cache
+E:\Coding Practice\DataEntryFormBUP\obj\Debug\DataEntryFormBUP.Form1.resources
+E:\Coding Practice\DataEntryFormBUP\obj\Debug\DataEntryFormBUP.Properties.Resources.resources
+E:\Coding Practice\DataEntryFormBUP\obj\Debug\DataEntryFormBUP.csproj.GenerateResource.cache
+E:\Coding Practice\DataEntryFormBUP\obj\Debug\DataEntryFormBUP.csproj.CoreCompileInputs.cache
+E:\Coding Practice\DataEntryFormBUP\obj\Debug\DataEntryFormBUP.exe
+E:\Coding Practice\DataEntryFormBUP\obj\Debug\DataEntryFormBUP.pdb
